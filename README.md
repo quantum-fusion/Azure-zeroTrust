@@ -3,7 +3,7 @@
 # White House Announces Zero trust final memo  
 ![White House](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/US-WhiteHouse-Logo.svg/1200px-US-WhiteHouse-Logo.svg.png)
 
-# Microsoft Federal announces zero trust final document 
+# President Rick Wagner, Microsoft Federal announces zero trust final document 
 https://www.linkedin.com/posts/r-wagner_white-house-publishes-final-zero-trust-strategy-activity-6896792219341127680-BrZL/
 
 # White House publishes zero trust strategy for Federal Agencies 
