@@ -1,7 +1,7 @@
 # Azure-zeroTrust
 
 # White House Announces Zero trust final memo  
-![White House](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F5e%2FUS-WhiteHouse-Logo.svg%2F1200px-US-WhiteHouse-Logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWhite_House_Office&tbnid=Rgi165zAFwB5IM&vet=12ahUKEwiM8p_q_PL1AhVSCVkFHQ2iBTQQMygNegUIARDxAQ..i&docid=kpmoHLuTyiBKNM&w=1200&h=839&q=white%20house&ved=2ahUKEwiM8p_q_PL1AhVSCVkFHQ2iBTQQMygNegUIARDxAQ)
+![White House](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWhite_House_Office&psig=AOvVaw1iWR8JmoAaG_qzYAK7VICc&ust=1644508267633000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDpzIr98vUCFQAAAAAdAAAAABAD)
 
 # Microsoft Federal announces zero trust final document 
 https://www.linkedin.com/posts/r-wagner_white-house-publishes-final-zero-trust-strategy-activity-6896792219341127680-BrZL/
